@@ -1,0 +1,11 @@
+.s1.stl{
+    color: grey;
+}
+.card-head{
+    text-align: center;
+}
+.btn {
+    width: 100%;
+    color: aqua;
+    border-radius: 10px;
+}
